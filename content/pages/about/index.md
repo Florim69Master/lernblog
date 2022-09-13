@@ -1,12 +1,12 @@
 +++
 title = "About me"
 draft = false
-description = ""
 image = ""
+description = ""
 +++
-![](/img/default-author.jpg)
+![](58ca0d3e-c2a9-483c-acb5-b2837c8c6145.jpeg)
 
-## My Name
+## Florim Blog
 
 mail@example.org
 
