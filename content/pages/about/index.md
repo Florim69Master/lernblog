@@ -1,5 +1,5 @@
 +++
-title = "About me"
+title = "Queen bricht aus"
 draft = false
 image = ""
 description = ""
@@ -9,5 +9,3 @@ description = ""
 ## Florim Blog
 
 mail@example.org
-
-Here should be some info about me...
